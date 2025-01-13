@@ -18,6 +18,10 @@ Matches, runs, balls faced, average, 50s, 100s, best score, strike rate, 4s, 6s,
   
 This dashboard provides a user-friendly interface to explore Kohli's exceptional T20 career with in-depth analytics.
 
-### Screenshot
+### Project Link:
+
+https://lookerstudio.google.com/reporting/76f6da4e-0329-4435-86d5-304c774868c7/page/dHucE
+
+### Screenshot:
 
 ![Screenshot 2025-01-13 090756](https://github.com/user-attachments/assets/bdc9ad59-c6db-493b-a98c-8cf38cbd5651)
